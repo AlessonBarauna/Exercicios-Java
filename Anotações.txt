@@ -1,0 +1,37 @@
+Anotações
+bootcamp DIO 
+Introdução ao Git e Github
+Principais Comandos:
+
+iniciar uma área de trabalho 
+   clone- Clona um repositório em um novo diretório
+   init- Cria um repositório Git vazio ou reinicializa um existente
+
+trabalhe na mudança atual 
+   add- Adiciona o conteúdo do arquivo ao índice
+   mv- Move ou renomeia um arquivo, um diretório ou um link simbólico
+   restaurar- Restaurar arquivos da árvore de trabalho
+   rm- Remove arquivos da árvore de trabalho e do índice
+
+examine o histórico e o estado 
+   bisect- Use a busca binária para encontrar o commit que introduziu um bug
+   diff- Mostra as mudanças entre commits, commit e árvore de trabalho.
+   grep- Imprime linhas que correspondem a um padrão
+   log- Mostrar logs de commit
+   show- Mostra vários tipos de objetos
+   status- Mostra o status da árvore de trabalho
+
+crescer, marcar e ajustar sua história comum
+   branch- Listar, criar ou excluir branches
+   commit- Grava as alterações no repositório
+   merge- Junte dois ou mais históricos de desenvolvimento
+   rebase- Reaplicar commits em cima de outra dica base
+   reset- Restaura o HEAD atual para o estado especificado
+   mudar-Mudar ramos
+   tag- Criar, listar, excluir ou verificar um objeto de tag assinado com GPG
+
+colaborar 
+   fetch -Baixar objetos e referências de outro repositório
+   pul- Busca de e integrar com outro repositório ou uma ramificação local
+   push- Atualizar referências remotas junto com objetos associados
+
